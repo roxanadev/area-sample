@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "topic": "Topic 1",
+        "attributes": {
+            "thingsToConsider": [
+                "Consider 1.1",
+                "Consider 1.2 "
+            ]
+        }
+    },
+    {
+        "id": "2",
+        "topic": "Topic 2",
+        "attributes": {
+            "thingsToConsider": [
+                "Consider 2.1",
+                "Consider 2.2 "
+            ]
+        }
+    },
+    {
+        "id": "3",
+        "topic": "Topic 3",
+        "isDefault": "N",
+        "attributes": {
+            "thingsToConsider": [
+                "Consider 3.1",
+                "Consider 3.2 "
+            ]
+        }
+    },
+    {
+        "id": "4",
+        "topic": "Topic 4",
+        "isDefault": "Y",
+        "attributes": {
+            "thingsToConsider": [
+                "Consider 4.1",
+                "Consider 4.2 "
+            ]
+        }
+    }
+]
